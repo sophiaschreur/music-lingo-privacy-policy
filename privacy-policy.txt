@@ -1,0 +1,39 @@
+Step 1: Draft Your Privacy Policy
+Here’s a Privacy Policy tailored for your app based on the details you’ve provided:
+
+Privacy Policy for Music Lingo
+Effective Date: 11/27/2024
+
+Music Lingo ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our app.
+
+1. Information We Collect
+We may collect the following types of information:
+
+Device Information: IP address, operating system, and browser type.
+Usage Data: Interactions with embedded YouTube videos.
+Third-Party Data: YouTube iframe API may collect user interaction data according to YouTube's Privacy Policy.
+2. How We Use Your Information
+We use your information to:
+
+Deliver app functionality, including displaying embedded YouTube videos.
+Improve app performance and user experience.
+Ensure compliance with our Terms of Service.
+3. Third-Party Services
+We use the following third-party services:
+
+YouTube iframe API: Allows the display of YouTube videos. YouTube may collect data such as viewing history and interactions with its videos.
+For more information on YouTube's data practices, please review their Privacy Policy.
+
+4. Your Rights
+You have the following rights regarding your data:
+
+Access: Request access to the information we collect.
+Deletion: Request that we delete your personal data.
+Opt-Out: Restrict data collection by not using the app.
+To exercise these rights, contact us at sophiaschreur@icloud.com.
+
+5. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Updates will be posted in the app and on this page.
+
+6. Contact Us
+If you have any questions about this Privacy Policy, contact us at: sophiaschreur@icloud.com
