@@ -21,7 +21,8 @@ Ensure compliance with our Terms of Service.
 3. Third-Party Services
 We use the following third-party services:
 
-YouTube iframe API: Allows the display of YouTube videos. YouTube may collect data such as viewing history and interactions with its videos.
+YouTube iframe API: Allows the display of YouTube videos. YouTube may collect data such as viewing history and interactions with its videos. Our app integrates with YouTube's API to display video content. We fully comply with YouTube's API policies and terms of service, and we do not collect or share any data beyond what is permitted by YouTube's Developer Policies. For more information, please review YouTube's policies at https://developers.google.com/youtube/terms/developer-policies.
+
 For more information on YouTube's data practices, please review their Privacy Policy.
 
 4. Your Rights
