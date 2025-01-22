@@ -1,40 +1,101 @@
-Step 1: Draft Your Privacy Policy
-Here’s a Privacy Policy tailored for your app based on the details you’ve provided:
-
 Privacy Policy for Music Lingo
-Effective Date: 11/27/2024
+Effective Date: 01/22/2025
 
 Music Lingo ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our app.
 
 1. Information We Collect
-We may collect the following types of information:
 
-Device Information: IP address, operating system, and browser type.
-Usage Data: Interactions with embedded YouTube videos.
-Third-Party Data: YouTube iframe API may collect user interaction data according to YouTube's Privacy Policy.
+We may collect the following types of information when you use our app:
+
+Device Information:
+
+IP address, operating system, browser type, and device identifiers.
+
+Usage Data:
+
+Interactions with embedded YouTube videos and radio station streams.
+
+Third-Party Data:
+
+Our app integrates with third-party services that may collect data according to their respective privacy policies.
+
 2. How We Use Your Information
+
 We use your information to:
 
-Deliver app functionality, including displaying embedded YouTube videos.
+Deliver app functionality, including displaying embedded YouTube videos and radio streams.
+
 Improve app performance and user experience.
+
 Ensure compliance with our Terms of Service.
-3. Third-Party Services
-We use the following third-party services:
 
-YouTube iframe API: Allows the display of YouTube videos. YouTube may collect data such as viewing history and interactions with its videos. Our app integrates with YouTube's API to display video content. We fully comply with YouTube's API policies and terms of service, and we do not collect or share any data beyond what is permitted by YouTube's Developer Policies. For more information, please review YouTube's policies at https://developers.google.com/youtube/terms/developer-policies.
+Respond to inquiries and support requests.
 
-For more information on YouTube's data practices, please review their Privacy Policy.
+3. Third-Party Services and Links
 
-4. Your Rights
+Third-Party Content Disclaimer:
+Music Lingo provides access to publicly available content through third-party services, including, but not limited to, radio stations aggregated via Radio Browser and videos via the YouTube iframe API. These services are owned and operated by independent third parties over whom we exercise no control.
+
+By using Music Lingo, you acknowledge that:
+
+Music Lingo does not host, store, rebroadcast, or provide downloads of any third-party content, including radio station audio or video services; it only provides streaming access by linking to publicly available content.
+
+All radio station streams, logos, and trademarks are the property of their respective owners.
+
+If any station owner or content provider wishes to have their stream or content removed from our app, they may contact us at contact.musiclingo@gmail.com, and we will promptly review and address the request.
+
+YouTube iframe API:
+Music Lingo integrates the YouTube iframe API to display video content. YouTube may collect and process data such as viewing history and interactions with its videos. We comply with YouTube's Developer Policies and do not collect or share any data beyond what is permitted. For more information, please review YouTube's Privacy Policy. YouTube receives information when you watch embedded videos in the app.
+
+Radio Browser API:
+Our app sources radio station metadata from Radio Browser, an open-source project that provides publicly available internet radio streams. When you listen to a radio station through our app, Radio Browser receives data indicating that the station was accessed. According to Radio Browser's public terms, these streams are freely available for public use, and Music Lingo complies with their usage policies. However, station access is subject to their respective terms of service, and Music Lingo does not claim any ownership or rights over the content.
+
+Please note that Radio Browser is a community-driven project and has publicly stated that they are not responsible for the entries on their website, as it operates similarly to Wikipedia. Music Lingo acts as an intermediary, providing access to this publicly available data without assuming responsibility for the content. We do our best to observe copyright laws and ensure compliance.
+
+If you become aware of any copyright violations occurring on the third-party platforms we work with, please alert us at contact.musiclingo@gmail.com, and we will take action to remove the infringing content from our platform as soon as possible.
+
+Amplitude Analytics:
+We use Amplitude to analyze app usage patterns and improve the user experience. Amplitude collects anonymized data on user interactions within the app but does not track users for advertising purposes or share data with advertising platforms. For more details, please review Amplitude's Privacy Policy.
+
+4. User Rights and Choices
+
 You have the following rights regarding your data:
 
-Access: Request access to the information we collect.
-Deletion: Request that we delete your personal data.
-Opt-Out: Restrict data collection by not using the app.
-To exercise these rights, contact us at contact.musiclingo@gmail.com.
+Access: You can request access to the information we collect about you.
 
-5. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. Updates will be posted in the app and on this page.
+Deletion: You may request that we delete your personal data.
 
-6. Contact Us
-If you have any questions about this Privacy Policy, contact us at: contact.musiclingo@gmail.com
+Opt-Out: You can restrict data collection by discontinuing use of the app or adjusting your device settings.
+
+To exercise these rights, please contact us at contact.musiclingo@gmail.com.
+
+5. Copyright and Intellectual Property
+
+Music Lingo respects the intellectual property rights of all third-party content providers. Any trademarks, logos, and content accessed through our app remain the property of their respective owners. We do not claim any ownership or affiliation with third-party services and only provide access as a directory for publicly available content.
+
+If you believe that copyrighted work has been copied and is accessible on the Music Lingo app in a way that constitutes copyright infringement, you may notify us by providing our copyright agent the following information:
+
+An electronic or physical signature of the copyright owner or the person authorized to act on their behalf.
+
+A description of the copyrighted work that you claim has been infringed.
+
+Identification of the URL or specific location on the Music Lingo app where the infringing material is located.
+
+Your name, address, telephone number, and email address.
+
+A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
+
+A statement by you that the above information is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
+
+Music Lingo's copyright agent can be reached at:
+📧 Email: contact.musiclingo@gmail.com
+
+6. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices, regulatory requirements, or legal obligations. Updates will be posted in the app and on this page with a revised effective date.
+
+7. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+
+📧 Email: contact.musiclingo@gmail.com
