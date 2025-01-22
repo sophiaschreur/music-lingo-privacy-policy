@@ -1,5 +1,5 @@
 Privacy Policy for Music Lingo
-Effective Date: 01/22/2025
+Effective Date: 11/27/2024
 
 Music Lingo ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our app.
 
@@ -43,6 +43,9 @@ Music Lingo does not host, store, rebroadcast, or provide downloads of any third
 All radio station streams, logos, and trademarks are the property of their respective owners.
 
 If any station owner or content provider wishes to have their stream or content removed from our app, they may contact us at contact.musiclingo@gmail.com, and we will promptly review and address the request.
+
+How Streaming Works:
+Music Lingo provides a list of thousands of popular radio stations worldwide for your convenience. When you play a station in the app, you are using the embedded player as a tool to access the station stream online. This works similarly to opening the stream in a web browser or a media player such as VLC. The stations themselves may collect and use your IP address based on their own privacy policies. Music Lingo does not control or have access to this data.
 
 YouTube iframe API:
 Music Lingo integrates the YouTube iframe API to display video content. YouTube may collect and process data such as viewing history and interactions with its videos. We comply with YouTube's Developer Policies and do not collect or share any data beyond what is permitted. For more information, please review YouTube's Privacy Policy. YouTube receives information when you watch embedded videos in the app.
